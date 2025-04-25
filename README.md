@@ -8,4 +8,4 @@
 
 > [!TIP]
 > **Tip**  
-> Curious how neural nets actually learn? I’m demystifying them one function at a time. Stay tuned for my implementation walkthrough — or follow me on X (TWitter) to follow along.
+> Curious how neural nets actually learn? I’m demystifying them one function at a time. Stay tuned for my implementation walkthrough — or follow me on X (Twitter) to follow along.
